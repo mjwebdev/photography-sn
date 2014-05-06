@@ -20,7 +20,14 @@ gem 'jquery-rails'
 gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
+
+# controls login and registration
+gem 'devise'
+
+# makes it easier to read your database entries.. simply type Hirb.enable in console to make it work
 gem 'hirb', '~> 0.7.1'
+
+# setting up with Bootstraps framework
 gem 'bootstrap-sass'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0',          group: :doc
