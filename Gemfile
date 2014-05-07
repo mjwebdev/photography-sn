@@ -21,6 +21,9 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
 
+# makes writing your forms easier
+gem 'simple_form'
+
 # controls login and registration
 gem 'devise'
 
