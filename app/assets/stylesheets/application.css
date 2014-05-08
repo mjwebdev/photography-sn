@@ -32,3 +32,6 @@ body {
 .status.hover .admin {
 	display: inline;
 }
+.alert {
+	margin-top: 15px;
+}
